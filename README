@@ -1,0 +1,8 @@
+This project is about processing Java NCSS statistics and 
+creating a bell or gaussion graph from the method lengths
+
+This to get an insight of the avarage method lengths as related to
+the possible quality of the software.
+
+In my opinion methods should be short, max 5 lines of code
+
